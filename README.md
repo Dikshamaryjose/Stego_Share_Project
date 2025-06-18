@@ -2,6 +2,9 @@
 
 Stego Share is a secure image messaging application.
 
+## Author
+Diksha Mary Jose J
+
 ## 🔐 Features
 - AES encryption for messages
 - LSB steganography to hide encrypted data in images
